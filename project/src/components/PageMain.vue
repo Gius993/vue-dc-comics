@@ -31,20 +31,20 @@
 				</div>
 			</div>
 				<div class="card">
-				<div class="image">
-					<img src="../assets/img/buy-comics-subscriptions.png" alt="card">
-				</div>
-				<div class="text">
-					Digital comic
-				</div>
+					<div class="image">
+						<img src="../assets/img/buy-comics-subscriptions.png" alt="card">
+					</div>
+					<div class="text">
+						Digital comic
+					</div>
 			</div>
 				<div class="card">
-				<div class="image">
-					<img src="../assets/img/buy-dc-power-visa.svg" alt="card">
-				</div>
-				<div class="text">
-					Digital comic
-				</div>
+					<div class="image">
+						<img src="../assets/img/buy-dc-power-visa.svg" alt="card">
+					</div>
+					<div class="text">
+						Digital comic
+					</div>
 			</div>
 		</div>
 	</div>
