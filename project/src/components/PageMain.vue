@@ -1,8 +1,16 @@
 <template>
 	
 	<div class="containerMain">
-		<div class="main-top">
-			<h1>Content </h1>
+		<div class="main-top ">
+			
+			<div class="banner">
+				<div class="click">
+					<strong>CURRENT SERIES</strong>
+				</div>
+			</div>
+			<div class="object-brend">
+
+			</div>
 		</div>
 		
 		<div class="main-bottom">
@@ -61,8 +69,7 @@
 	.containerMain{
 		width: 100%;
 		color: white;
-		.main-top{
-			padding: 50px;
+		.main-top{			
 			background-color: $branc_color_d;
 		}
 		.main-bottom{
@@ -82,5 +89,21 @@
 				margin-left: 10px;
 			}
 		}
+		.banner{
+			background-image: url('../assets/img/jumbotron.jpg');
+			width: 100%;
+			height: 50vh;
+			position: relative;
+		.click{
+			text-align: center;
+			padding: 10px;
+			width: max-content;
+			background-color:$brand_color_a;
+			color: white;
+			position: absolute;
+			bottom: -20px;
+			left: 25%;
+		}
 	}
+}
 </style>
