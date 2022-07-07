@@ -86,6 +86,12 @@
 	}
 	.list{
 		margin-left: 15px;
+		h3{
+			margin-bottom: 20px;
+		}
+		li{
+			margin-bottom:10px ;
+		}
 	}
 	.li-container{
 		.list{
