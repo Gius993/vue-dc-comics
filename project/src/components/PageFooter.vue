@@ -6,48 +6,48 @@
 					<h3>Dc Comics</h3>
 					<ul>
 						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
+						<li>Comic</li>
+						<li>Movies</li>
+						<li>TV</li>
+						<li>Games</li>
+						<li>Video</li>
+						<li>News</li>
 
 					</ul>
 				</div>
 				<div class="list">
-					<h3>Dc Comics</h3>
+					<h3>SHOP</h3>
 					<ul>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
+						<li>Shop DC</li>
+						<li>Shop DC Collecttables</li>
 					</ul>
 				</div>			
 			</div>
 			<div class="list">
-					<h3>Dc Comics</h3>
+					<h3>Dc</h3>
 					<ul>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
+						<li>Team Of Use</li>
+						<li>Privacy Pollcy</li>
+						<li>Ad Choies</li>
+						<li>Advesting</li>
+						<li>Jobs</li>
+						<li>Subscription</li>
+						<li>Talent Workshop</li>
+						<li>CPS Certificates</li>
+						<li>Ratings</li>
+						<li>Shop Help</li>
+						<li>Contact Us</li>
 
 					</ul>
 				</div>
 				<div class="list">
-					<h3>Dc Comics</h3>
+					<h3>SITES</h3>
 					<ul>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
-						<li>Cheachers</li>
+						<li>DC</li>
+						<li>MAD Magazine</li>
+						<li>DC Kids</li>
+						<li>DC Universe</li>
+						<li>DC Powe Visa</li>
 
 					</ul>
 				</div>

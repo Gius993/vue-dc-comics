@@ -9,16 +9,16 @@
 			<img src="../assets/img/footer-facebook.png" alt="iconsocial">
 		</div>
 			<div class="icon">
-			<img src="../assets/img/footer-facebook.png" alt="iconsocial">
+			<img src="../assets/img/footer-periscope.png" alt="iconsocial">
 		</div>
 			<div class="icon">
-			<img src="../assets/img/footer-facebook.png" alt="iconsocial">
+			<img src="../assets/img/footer-pinterest.png" alt="iconsocial">
 		</div>
 			<div class="icon">
-			<img src="../assets/img/footer-facebook.png" alt="iconsocial">
+			<img src="../assets/img/footer-twitter.png" alt="iconsocial">
 		</div>
 			<div class="icon">
-			<img src="../assets/img/footer-facebook.png" alt="iconsocial">
+			<img src="../assets/img/footer-youtube.png" alt="iconsocial">
 		</div>
 	</div>
   </div>

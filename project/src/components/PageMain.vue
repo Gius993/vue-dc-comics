@@ -2,16 +2,19 @@
 	
 	<div class="containerMain">
 		<div class="main-top ">
-			
-			<div class="banner">
-				<div class="click">
-					<strong>CURRENT SERIES</strong>
+			<div>
+				<div class="banner">
+					<div class="click">
+						<strong>CURRENT SERIES</strong>
+					</div>
+				</div>
+				<div class="object-brend">
+					<ProductCard v-for="element, index in products " :key="index" :productDeatils="element" />				
 				</div>
 			</div>
-			<div class="object-brend">
-				<ProductCard :productDeatils="products[1]" />
-				
-			</div>
+				<div class="click">
+					<strong>Load More</strong>
+				</div>
 		</div>
 		
 		<div class="main-bottom">
@@ -23,20 +26,20 @@
 					Digital comic
 				</div>
 			</div>
-				<div class="card">
+			<div class="card">
 				<div class="image">
 					<img src="../assets/img/buy-comics-merchandise.png" alt="card">
 				</div>
 				<div class="text">
-					Digital comic
+					DC MERCHANDAIS
 				</div>
 			</div>
-				<div class="card">
+			<div class="card">
 				<div class="image">
 					<img src="../assets/img/buy-comics-shop-locator.png" alt="card">
 				</div>
 				<div class="text">
-					Digital comic
+					SUBSCRIPTION
 				</div>
 			</div>
 				<div class="card">
@@ -44,7 +47,7 @@
 						<img src="../assets/img/buy-comics-subscriptions.png" alt="card">
 					</div>
 					<div class="text">
-						Digital comic
+						COMIC SHOP LOCATOR
 					</div>
 			</div>
 				<div class="card">
@@ -52,7 +55,7 @@
 						<img src="../assets/img/buy-dc-power-visa.svg" alt="card">
 					</div>
 					<div class="text">
-						Digital comic
+						DC POWER VISA
 					</div>
 			</div>
 		</div>
@@ -157,6 +160,9 @@
 		color: white;
 		.main-top{			
 			background-color: $branc_color_d;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
 		}
 		.main-bottom{
 			background-color: $brand_color_a;
@@ -188,9 +194,10 @@
 			background-color:$brand_color_a;
 			color: white;
 			position: absolute;
-			bottom: -20px;
+			bottom: -15%;
 			left: 25%;
 		}
+	
 	}
 }
 .object-brend{
@@ -198,4 +205,17 @@
 	display: flex;
 	flex-wrap: wrap;
 }
+
+	.click{
+		text-align: center;
+		padding-left: 40px;
+		padding-right: 40px;
+		padding-top: 20px;
+		padding-bottom: 20px;		
+		width: max-content;
+		background-color: $brand_color_a;
+		color: white;
+		display: inline-block;
+		margin-bottom: 50px;
+	}
 </style>
