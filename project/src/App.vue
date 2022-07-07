@@ -5,6 +5,8 @@
     <PageHeader />
     <PageMain  />
     <PageFooter />
+    <PageBottom />
+
   </div>
 </template>
 
@@ -12,6 +14,7 @@
    import PageHeader from "./components/PageHeader.vue";
    import PageMain from "./components/PageMain.vue";
    import PageFooter from "./components/PageFooter.vue"
+   import PageBottom from "./components/PageBottom.vue"
 // import HelloWorld from './components/HelloWorld.vue'
 
 export default {
@@ -19,7 +22,8 @@ export default {
   components:{
     PageHeader,  
     PageMain,
-    PageFooter    
+    PageFooter,
+    PageBottom    
 }
 
 }
