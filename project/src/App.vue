@@ -2,8 +2,8 @@
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-  <PageHeader />
-    <PageMain />
+    <PageHeader />
+    <PageMain  />
   </div>
 </template>
 
@@ -15,9 +15,10 @@
 export default {
   name: 'App',
   components:{
-    PageHeader,
-    PageMain,
+    PageHeader,  
+    PageMain    
 }
+
 }
 </script>
 
